@@ -28,9 +28,11 @@
     "eslint": "2.7.0",
     "eslint-plugin-react": "4.3.0",
     "jest-cli": "^0.10.0",
+    "react-addons-test-utils": "^0.14.5"
+  },
+  "peerDependencies": {
     "react": "^0.14.5",
-    "react-addons-test-utils": "^0.14.5",
-    "react-native": "^0.23.1"
+    "react-native": "^0.23.1"    
   },
   "author": "James Friend <james@jsdf.co> (http://jsdf.co/)",
   "license": "ISC",
