@@ -31,8 +31,8 @@
     "react-addons-test-utils": "^0.14.5"
   },
   "peerDependencies": {
-    "react": "^0.14.5",
-    "react-native": "^0.23.1"    
+      "react": "^15.2.1",
+      "react-native": "^0.30.0"
   },
   "author": "James Friend <james@jsdf.co> (http://jsdf.co/)",
   "license": "ISC",
